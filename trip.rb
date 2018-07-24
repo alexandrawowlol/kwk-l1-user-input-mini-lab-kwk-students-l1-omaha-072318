@@ -15,6 +15,6 @@ eat = "pizza"
 
 puts "I would like to eat #{eat}."
 
-nights = "7"
+night = "7"
 
-puts "I would like to stay #{nights} nights"
+puts "I would like to stay #{night} nights"
