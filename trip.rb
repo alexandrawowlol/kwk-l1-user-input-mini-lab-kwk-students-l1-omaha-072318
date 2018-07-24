@@ -14,3 +14,7 @@ eat = "pizza"
 # Lastly, puts it all back by interpolating these values in a string.
 
 puts "I would like to eat #{eat}."
+
+nights_day = 7
+
+puts "I would like to stay #{nights_day} nights"
